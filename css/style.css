@@ -36,6 +36,7 @@ h2{
 }
 p{
     font-size: 28px;
+    font-weight: bold;
 }
 .invert{
     filter: invert(1);
