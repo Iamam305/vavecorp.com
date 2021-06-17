@@ -410,7 +410,7 @@ filter: drop-shadow(none);
 }
 .accordionItemHeading:hover{
     text-shadow: var(--hover-shadow),var(--hover-shadow);
-    background-color: rgba(255, 255, 255, 0.123);
+    background-color: rgba(255, 255, 255, 0.1);
 }
 .accordionItemHeading span span{
     margin: 0px 3px;
@@ -509,6 +509,9 @@ margin-top: 50px;
     height:200px;
     box-shadow: 0px 0px 10px 0px;
    
+}
+.card:hover{
+background-color: rgba(255, 255, 255, 0.1);
 }
 
 .card-kid{
