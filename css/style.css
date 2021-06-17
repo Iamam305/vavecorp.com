@@ -353,9 +353,9 @@ header{
 /* key fetaures section  */
 
 .home-key-feture{
-  margin: auto;
   margin-left: 40px;
-  
+  margin: auto;
+
 }
 .key-content{
     display: flex;
