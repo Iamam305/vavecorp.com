@@ -2,12 +2,14 @@
     margin: 0%;
     padding: 0%;
     transition: 0.5s;
-    scroll-behavior: smooth;
+   
     
 }
+
 body{
 	
 	font-family: 'Josefin Sans', sans-serif;
+	 scroll-behavior: smooth;
 }
 .scroll-arrow a{
     color: white;
@@ -289,8 +291,8 @@ header{
 	animation-iteration-count:infinite;
 }
 .call-to-action:hover{
-        color: #255784;
-        background-color: #26c0fd;
+/*         color: #255784; */
+        background-color: #26c0fd40;
 /*         box-shadow:0px 0px 30px #26c0fd ; */
         transition-delay: 1s;
 }
