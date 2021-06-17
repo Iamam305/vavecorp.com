@@ -42,8 +42,8 @@ body::before{
     z-index: -33;
     background-image: url(../img/bgneon.jpg);
     filter: blur(5px);
-/*     background-position: center; */
-/*     background-size: cover; */
+    background-position: center;
+    background-size: cover;
     background-repeat: no-repeat;
     background-attachment: fixed;
     position:fixed;
