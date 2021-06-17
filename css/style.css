@@ -2,7 +2,7 @@
     margin: 0%;
     padding: 0%;
     transition: 0.1s;
-/*     scroll-behavior: smooth; */
+    scroll-behavior: smooth;
     
 }
 .scroll-arrow a{
