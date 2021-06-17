@@ -2,7 +2,7 @@
     margin: 0%;
     padding: 0%;
     transition: 0.1s;
-    scroll-behavior: smooth;
+/*     scroll-behavior: smooth; */
     
 }
 .scroll-arrow a{
@@ -125,6 +125,7 @@ header{
     filter: drop-shadow(var(--para-shadow));
     text-shadow:var(--para-shadow) ;
     transition: 0.3s;
+    scroll-behavior: smooth;
 }
 .menu-item a:hover{
     text-shadow:var(--hover-shadow) ;
