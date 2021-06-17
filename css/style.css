@@ -404,7 +404,8 @@ filter: drop-shadow(none);
     color:var(--font-color);
     filter: drop-shadow(var(--para-shadow));
     text-shadow:var(--para-shadow) ; 
-    display: inline-block;  
+    display: inline-block;
+    transition:0.3s;
     box-shadow: 0px 0px 10px 0px black;
 }
 .accordionItemHeading:hover{
