@@ -816,16 +816,7 @@ footer{
     filter: drop-shadow(var(--para-shadow));
     text-shadow: var(--para-shadow);
 }
-.footer-menu{
-    margin: 0px 100px;
-}
-.footer-menu ul{
-    list-style: none;
-    text-align: center;
-}
-.footer-menu ul li{
-    margin: 20px;
-}
+
 
 
 
